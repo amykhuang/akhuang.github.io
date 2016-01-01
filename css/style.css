@@ -6,12 +6,7 @@
 @import url("//fonts.googleapis.com/css?family=Ovo:400");
 
 body {
-	/*
- * Google fonts
- */
-@import url("//fonts.googleapis.com/css?family=Cabin:400,600");
-@import url("//fonts.googleapis.com/css?family=Muli:300,400");
-@import url("//fonts.googleapis.com/css?family=Ovo:400");background: #333;
+	background: #fff;
 }
 
 h1 {
