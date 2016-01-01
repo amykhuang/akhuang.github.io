@@ -10,6 +10,11 @@ body {
 }
 
 h1 {
-	font-family: Cabin;
+	font-family: Muli;
+}
+
+#descrip {
+	font-family: Muli;
+	font-size: 1em;
 }
 
