@@ -1,20 +1,24 @@
 /*
  * Google fonts
  */
-@import url("//fonts.googleapis.com/css?family=Cabin:400,600");
+@import url("//fonts.googleapis.com/css?family=Fauna-One");
 @import url("//fonts.googleapis.com/css?family=Muli:300,400");
-@import url("//fonts.googleapis.com/css?family=Ovo:400");
+@import url("//fonts.googleapis.com/css?family=Bitter");
 
 body {
 	background: #fff;
 }
 
 h1 {
-	font-family: Muli;
+	font-family: "Fauna One";
+	font-size: 4em;
 }
 
 #descrip {
-	font-family: Muli;
-	font-size: 1em;
+	font-family: "Muli";
+	font-weight: 300;
+	font-size: 1.5em;
 }
 
+#main-container {
+}
