@@ -1,5 +1,17 @@
+/*
+ * Google fonts
+ */
+@import url("//fonts.googleapis.com/css?family=Cabin:400,600");
+@import url("//fonts.googleapis.com/css?family=Muli:300,400");
+@import url("//fonts.googleapis.com/css?family=Ovo:400");
+
 body {
-	background: #333;
+	/*
+ * Google fonts
+ */
+@import url("//fonts.googleapis.com/css?family=Cabin:400,600");
+@import url("//fonts.googleapis.com/css?family=Muli:300,400");
+@import url("//fonts.googleapis.com/css?family=Ovo:400");background: #333;
 }
 
 h1 {
