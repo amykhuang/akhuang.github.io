@@ -29,6 +29,19 @@ h1 {
 	font-size: 1.3em;
 }
 
+#outer-wrapper {
+	height: 650px;
+	width: 100%;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: yellow;
+}
+
+#main-box {
+}
+
 .icon {
 	width: 23px;
 }
@@ -38,7 +51,7 @@ h1 {
 }
 
 #footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
   height: 30px;
