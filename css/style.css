@@ -27,6 +27,11 @@ h1 {
 	font-size: 1.3em;
 }
 
+#myname {
+	width: 300px;
+	margin-bottom: -25px;
+}
+
 #outer-wrapper {
 	height: 650px;
 	width: 100%;
