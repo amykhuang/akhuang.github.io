@@ -1,6 +1,7 @@
 
 body {
 	background: #fff;
+	color: #424242;
 	font-family: "News Cycle";
 	font-size: 12pt;
 	-webkit-user-select: none;
@@ -14,13 +15,13 @@ input,textarea {
 }
 
 a:link,a:visited {
-	color: #424242;
+	color: #8B8386;
 	outline: 0;
 	text-decoration: none;
 }
 
 a:hover {
-	color: tomato;
+	color: #8B6969;
 	text-decoration: underline;
 }
 
@@ -78,6 +79,12 @@ h1 {
 	left: 10%;
 	width: 200px;
 	height: 300px;
+}
+
+ul.plain {
+	list-style-type: none;
+	font-family: "News Cycle";
+	font-weight: 700;
 }
 
 #side-bar ul {
