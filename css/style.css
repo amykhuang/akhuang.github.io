@@ -3,14 +3,25 @@ body {
 	background: #fff;
 	font-family: "News Cycle";
 	font-size: 12pt;
+	-webkit-user-select: none;
+	-moz-user-select: -moz-none;
+	-ms-user-select: none;
+	user-select: none;
 }
 
-a:link, a:visited {
+input,textarea {
+     -moz-user-select: text;
+}
+
+a:link,a:visited {
 	color: #424242;
+	outline: 0;
+	text-decoration: none;
 }
 
 a:hover {
 	color: tomato;
+	text-decoration: underline;
 }
 
 a:active {
@@ -102,11 +113,4 @@ h1 {
   text-align: center;
   font-size: .8em;
   padding-top: 5px;
-}
-
-::selection {
-  background: #eeeeee; /* WebKit/Blink Browsers */
-}
-::-moz-selection {
-  background: #eeeeee; /* Gecko Browsers */
 }
