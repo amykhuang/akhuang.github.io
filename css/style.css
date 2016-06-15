@@ -1,11 +1,20 @@
-/*
- * Google fonts
- */
-@import url("//fonts.googleapis.com/css?family=Fauna-One");
 
 body {
 	background: #fff;
 	font-family: "News Cycle";
+	font-size: 12pt;
+}
+
+a:link, a:visited {
+	color: #424242;
+}
+
+a:hover {
+	color: tomato;
+}
+
+a:active {
+	color: #eee;
 }
 
 .colored {
@@ -17,7 +26,7 @@ body {
 }
 
 h1 {
-	font-family: "Homemade Apple";
+	font-family: "Fauna One";
 	font-size: 3.5em;
 }
 
@@ -55,17 +64,23 @@ h1 {
 	background: #fff;
 	position: relative;
 	float: right;
-	left: 20%;
+	left: 10%;
 	width: 200px;
 	height: 300px;
 }
 
 #side-bar ul {
 	list-style-type: none;
+
 }
 
 #side-bar li {
-	margin: 15px 0 15px 0;
+	margin: 0px 0 0px 0;
+	line-height: 95%;
+	font-family: "News Cycle";
+	font-weight: 700;
+	font-size: 1.5em;
+	text-transform: lowercase;
 }
 
 .icon {
