@@ -77,6 +77,7 @@ h1 {
 	position: relative;
 	float: right;
 	left: 10%;
+	top: 70px;
 	width: 200px;
 	height: 300px;
 }
@@ -94,10 +95,10 @@ ul.plain {
 
 #side-bar li {
 	margin: 0px 0 0px 0;
-	line-height: 95%;
+	line-height: 150%;
 	font-family: "News Cycle";
-	font-weight: 700;
-	font-size: 1.5em;
+	font-weight: 400;
+	font-size: 1.2em;
 	text-transform: lowercase;
 }
 
