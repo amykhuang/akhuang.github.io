@@ -44,8 +44,7 @@ h1 {
 
 #descrip {
 	font-family: "Open Sans";
-	font-weight: 300;
-	font-size: 1.3em;
+	font-size: 1em;
 }
 
 #myname {
@@ -85,7 +84,6 @@ h1 {
 ul.plain {
 	list-style-type: none;
 	font-family: "Open Sans";
-	font-weight: 700;
 }
 
 #side-bar ul {
@@ -97,8 +95,7 @@ ul.plain {
 	margin: 0px 0 0px 0;
 	line-height: 150%;
 	font-family: "Open Sans";
-	font-weight: 400;
-	font-size: 1.2em;
+	font-size: 1em;
 	text-transform: lowercase;
 }
 
