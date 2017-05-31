@@ -43,7 +43,7 @@ h1 {
 }
 
 #descrip {
-	font-family: "News Cycle";
+	font-family: "Open Sans";
 	font-weight: 300;
 	font-size: 1.3em;
 }
@@ -96,7 +96,7 @@ ul.plain {
 #side-bar li {
 	margin: 0px 0 0px 0;
 	line-height: 150%;
-	font-family: "News Cycle";
+	font-family: "Open Sans";
 	font-weight: 400;
 	font-size: 1.2em;
 	text-transform: lowercase;
