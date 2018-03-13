@@ -84,7 +84,7 @@ h1 {
 
 ul.plain {
 	list-style-type: none;
-	font-family: "Open Sans";
+	font-family: "Inconsolata";
 }
 
 #side-bar ul {
@@ -94,7 +94,7 @@ ul.plain {
 #side-bar li {
 	margin: 0px 0 0px 0;
 	line-height: 150%;
-	font-family: "Roboto Condensed";
+	font-family: "Inconsolata";
 	font-size: 1em;
 	text-transform: lowercase;
 }
