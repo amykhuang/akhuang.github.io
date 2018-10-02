@@ -1,2 +1,2 @@
-# amykhuang.github.io
+# akhuang.github.io
 a personal website
