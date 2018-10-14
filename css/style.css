@@ -42,6 +42,11 @@ h1 {
 	font-size: 3.5em;
 }
 
+h4 {
+	font-family: "Inconsolata";
+	font-weight: bold;
+}
+
 #descrip {
 	font-family: "Roboto Condensed";
 	font-size: 1em;
