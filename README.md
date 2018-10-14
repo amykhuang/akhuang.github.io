@@ -1,2 +1,2 @@
-# saltedsky.github.io
+# amykhuang.github.io
 a personal website
